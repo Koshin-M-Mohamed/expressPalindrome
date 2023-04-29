@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/963/080/non_2x/cartoon-man-looking-in-mirror-vector.jpg");
+
+}
+
+h1{
+    color: rgb(79, 92, 239);
+}
+
+button{
+    background-color: rgb(15, 83, 142);
+    color: wheat
+}
+
+.container p span{
+border: 1px solid black;
+}
