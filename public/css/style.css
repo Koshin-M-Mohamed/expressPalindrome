@@ -1,18 +1,34 @@
-body{
-    text-align: center;
-    background-image: url("https://static.vecteezy.com/system/resources/previews/000/963/080/non_2x/cartoon-man-looking-in-mirror-vector.jpg");
-
+body {
+  text-align: center;
+  font-size: 18px;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/963/080/non_2x/cartoon-man-looking-in-mirror-vector.jpg");
 }
 
-h1{
-    color: rgb(79, 92, 239);
+h1 {
+  color: rgb(79, 92, 239);
 }
 
-button{
-    background-color: rgb(15, 83, 142);
-    color: wheat
+button {
+  background-color: rgb(15, 83, 142);
+  color: wheat;
 }
 
-.container p span{
-border: 1px solid black;
+.container {
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  border-radius: 8%;
+
+  background-color: bisque;
+}
+#deletebtn {
+  margin-left: 20px;
+}
+div span {
+  padding: 10px;
+  background-color: rgb(148, 188, 206);
+  border-radius: 8%;
+}
+.container div {
+  padding: 10px;
 }
